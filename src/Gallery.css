@@ -24,11 +24,6 @@
   width: 100vw;
 }
 
-.galleryPage .carousel .slide img{
-  max-height: 50vh;
-  width: 100vw;
-}
-
 .galleryPage .image{
   margin:0 auto ;
   height: 100%;
