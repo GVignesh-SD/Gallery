@@ -36,16 +36,7 @@
 
 }
 
-@media only screen and (max-width: 1200px){
-  .galleryPage .carousel{
-  height: 50vh;
-}
 
-.galleryPage .carousel .slide img{
-  height: 100%;
-  width: 100vw;
-}
-}
 
 @media only screen and (max-width: 900px){
   .galleryPage .carousel{
